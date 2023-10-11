@@ -1,0 +1,19 @@
+{
+  "name": "minuteinbox.js",
+  "version": "1.0.0",
+  "description": "Unofficial javascript wrapper for minuteinbox.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "https://www.minuteinbox.com",
+    "minuteinbox",
+    "javascript"
+  ],
+  "author": "Tyrese Jin",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.1"
+  }
+}
