@@ -2,7 +2,7 @@
 
 Unofficial javascript wrapper for minuteinbox.com
 
-<img src="./assets/minuteinbox.com.jpg">
+<img src="https://github.com/TyreseDev/minuteinbox.js/blob/main/assets/minuteinbox.com.jpg">
 
 ## 💻 Description
 
